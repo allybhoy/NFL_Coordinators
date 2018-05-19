@@ -12,5 +12,4 @@ This repo holds the python code to create and extract your own version. The data
 
 Can you help? If you classify offenses and defenses then we'd love to work with you.
 
-<img src="https://github.com/allybhoy/NFL_Coordinators/blob/master/image.png" alt="scatter" class="inline"/>
-!(https://github.com/allybhoy/NFL_Coordinators/blob/master/image.png)
+<img src="NFL_Coordinators/image.png " alt="scatter" class="inline"/>
