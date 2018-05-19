@@ -10,6 +10,6 @@ From this starting point we a little deeper by extracting NFL play by play data 
 
 This repo holds the python code to create and extract your own version. The data and results are presented in <a id="studiolink" href="https://datastudio.google.com/reporting/1btImS_YJxkKMXdeL0xYcWmV8R1DBTxzo/page/iV8P/edit">google studio</a>
 
-Can you help? If you classify offenses and defenses then yes we do!
+Can you help? If you classify offenses and defenses then we'd love to work with you.
 
-<img src="NFL_Coordinators/blob/master/image.png" alt="scatter" class="inline"/>
+<img src="https://github.com/allybhoy/NFL_Coordinators/blob/master/image.png" alt="scatter" class="inline"/>
