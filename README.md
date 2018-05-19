@@ -2,7 +2,7 @@
 
 This work was created on the back of conversations between members of the <a id="effllink" href="https://allybhoy.wordpress.com/">Earlston Fantasy Football League</a> community. We posed the hypothesis
 
-”Do offensive coordinators change what they do against certain defenses?"
+>”Do offensive coordinators change what they do against certain defenses?"
 
 Anecdotally this appeared to be the case, one only has to look at the New England Patriots offense as a prime example of a coordinator and philosophy that seems to change on a game by game basis.
 
@@ -12,5 +12,4 @@ This repo holds the python code to create and extract your own version. The data
 
 Can you help? If you classify offenses and defenses then we'd love to work with you.
 
-<img src="https://github.com/allybhoy/NFL_Coordinators/blob/master/image.png" alt="scatter" class="inline"/>
 ![scatter](/image.png)
