@@ -1,4 +1,4 @@
-#NFL Coordinator matchups - Offensive vs Defensive Coordinators
+# NFL Coordinator matchups - Offensive vs Defensive Coordinators
 
 This work was created on the back of conversations between members of the <a id="effllink" href="https://allybhoy.wordpress.com/">Earlston Fantasy Football League</a> community. We posed the hypothesis
 
